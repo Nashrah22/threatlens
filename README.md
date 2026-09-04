@@ -10,7 +10,7 @@ ThreatLens is a Streamlit app that checks whether an IP address, domain, or URL 
 
 ## 🖼️ Preview
 
-![ThreatLens screenshot](screenshot.jpg)
+![ThreatLens screenshot](screenshot.jpeg)
 
 ---
 
