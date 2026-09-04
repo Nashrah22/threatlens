@@ -107,6 +107,4 @@ threatlens/
 
 ---
 
-## 📄 License
 
-Add a license of your choice (e.g. MIT) via **Add file → Create new file → LICENSE** on GitHub.
